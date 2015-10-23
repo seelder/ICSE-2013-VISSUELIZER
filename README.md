@@ -8,6 +8,7 @@ In this repository, for V:ISSUE:LIZER you will find:
 * :white_check_mark: [Source code (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-VISSUELIZER/tree/master/Source-Code)
 * :x: Original tool (not available)
 * :x: A slightly modified version of the tool that is working (not available)
+
 Please note that the available source code is an Eclipse project directory.
 
 This repository was constructed by [Gargi Rajadhyaksha](https://github.com/gsrajadh/) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Eric Knauss for his help in establishing this repository.
