@@ -5,7 +5,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [A Video of the Tool](https://www.youtube.com/watch?v=Oy3xvzjy3BQ)
 
 In this repository, for V:ISSUE:LIZER you will find:
-* :white_check_mark: [Source code (available)](https://github.com/gsrajadh/ReqtDisc)
+* :white_check_mark: [Source code (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-VISSUELIZER/tree/master/Source-Code)
 * :x: Original tool (not available)
 * :x: A slightly modified version of the tool that is working (not available)
 
